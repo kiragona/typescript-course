@@ -1,0 +1,18 @@
+{
+  "name": "understanding-ts",
+  "version": "1.0.0",
+  "description": "Understanding Typescript - 2020 Edition (Udemy course). ",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server",
+    "ts-compile": "npx tsc app.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "lite-server": "^2.5.4",
+    "typescript": "^4.0.2"
+  }
+}
